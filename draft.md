@@ -35,7 +35,7 @@ Release Date: 2018-2-19
 
 ###  R in Academia
 
-
++ [Introducing tidyLPA (an R package for carrying out Latent Profile Analysis)](https://jrosen48.github.io/blog/introducing-tidylpa-an-r-package-for-carrying-out-latent-profile-analysis/)
 
 ###  New Packages
 
