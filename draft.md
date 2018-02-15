@@ -53,14 +53,13 @@ Release Date: 2018-2-19
 
 + [ghentr](https://github.com/ijlyttle/ghentr) - tools to make it easier for you to build and share a private package-ecosystem using your instance of GitHub Enterprise [[pkgdown site](https://ijlyttle.github.io/ghentr/)]
 
-
 ### Package Releases
-
 
 + [future 1.7.0](https://cran.r-project.org/package=future) - Unified Parallel and Distributed Processing in R for Everyone - now with even less friction and more power to the end user and the developer.  ... and `future_lapply()` has moved to the [future.apply](https://cran.r-project.org/package=future.apply) package.
 
 + [matrixStats 0.53.1](https://cran.r-project.org/package=matrixStats) - Functions that Apply to Rows and Columns of Matrices (and to Vectors) - with some minor bug fixes
 
++ [tidyLPA 0.1.1](https://cran.r-project.org/package=tidyLPA) - Easily carry out Latent Profile Analysis (initial release of package that provides an interface to the mclust R package and to the commercial MPlus software)
 
 ###  Videos and Podcasts
 
